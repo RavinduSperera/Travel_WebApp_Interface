@@ -34,6 +34,7 @@ const Navbar = () => {
                 height={32}
                 className="inline-block cursor-pointer lg:hidden"
             />
+            {/* make this hamburger menue working */}
         </nav>
     )
 }
